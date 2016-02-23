@@ -1,1 +1,2 @@
-# Sandy's Polargraph project, penlift.ino file slightly edited for simple high/low command in lieu of servo. 
+#Polargraph
+Sandy's Polargraph project (www.github.com/euphy) -- penlift.ino file slightly modified for on/off command in lieu of servo. 
